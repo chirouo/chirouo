@@ -1,9 +1,9 @@
-### Hi there 👋,I'm zhe.
+### Hi there 👋,I'm Gao.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: 2627403974@qq.com
+- 📫 How to reach me: chirou971@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=chirouo&show_icons=true&theme=transparent)
 

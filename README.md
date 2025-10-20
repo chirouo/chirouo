@@ -1,8 +1,6 @@
-### Hi there 👋,I'm Gao.
+### Hi there 👋,I'm Chirou.
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- I am currently pursuing a doctoral degree at North University of China
 - 📫 How to reach me: chirou971@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=chirouo&show_icons=true&theme=transparent)

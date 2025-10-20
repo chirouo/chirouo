@@ -1,5 +1,5 @@
 ### Hi there 👋,I'm Chirou.
-
+- 📚 I received the B.S. degree from North University of China, Taiyuan, China, in 2025.
 - I am currently pursuing a doctoral degree at North University of China
 - 📫 How to reach me: chirou971@gmail.com
 
